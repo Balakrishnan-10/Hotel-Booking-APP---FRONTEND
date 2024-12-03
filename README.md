@@ -1,9 +1,10 @@
 # Hotel Booking APP 
 A comprehensive hotel booking application built using MERN Stack (MongoDB, Express.js, React.js, and Node.js)
+
 ## Vercel URL : https://hotel-booking-app-frontend-snowy.vercel.app/
-## Only for Testing Purpose :
-* Admin email :krishnabala1495@gmail.com;
-* Admin Password : 12345678
+
+## Only for Testing Purpose:
+* This is I already signIn Admin url.Please signout and signin for new user.
 
 ## Features
 * User registration and login functionality
