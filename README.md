@@ -1,6 +1,10 @@
 # Hotel Booking APP 
 A comprehensive hotel booking application built using MERN Stack (MongoDB, Express.js, React.js, and Node.js)
 ## Vercel URL : https://hotel-booking-app-frontend-snowy.vercel.app/
+## Only for Testing Purpose :
+* Admin email :krishnabala1495@gmail.com;
+* Admin Password : 12345678
+
 ## Features
 * User registration and login functionality
 * Hotel listing  (price, location, rating)
@@ -36,6 +40,18 @@ A comprehensive hotel booking application built using MERN Stack (MongoDB, Expre
 * moment
 
 ## Finished Functionalities :
+* All Hotel Details
+![All Hotel Details](https://github.com/Balakrishnan-10/Hotel-Booking-APP---FRONTEND/blob/main/src/ScreenShots/All%20Hotels.JPG)
+* Booking Hotel
+![Booking Hotel](https://github.com/Balakrishnan-10/Hotel-Booking-APP---FRONTEND/blob/main/src/ScreenShots/Booking%20Hotel.JPG)
+* Compare Hotel
+![Compare Hotel](https://github.com/Balakrishnan-10/Hotel-Booking-APP---FRONTEND/blob/main/src/ScreenShots/Compare%20Hotel.JPG)
+* Review Hotel
+![Review Hotel](https://github.com/Balakrishnan-10/Hotel-Booking-APP---FRONTEND/blob/main/src/ScreenShots/Review%20Hotel.JPG)
+* Payment Gateway
+![Payment Gateway](https://github.com/Balakrishnan-10/Hotel-Booking-APP---FRONTEND/blob/main/src/ScreenShots/Payment%20Gateway.JPG)
+* Transaction Amount
+![Transaction Amount](https://github.com/Balakrishnan-10/Hotel-Booking-APP---FRONTEND/blob/main/src/ScreenShots/Transaction.JPG)
 
 ## Languages :
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
