@@ -2,6 +2,7 @@
 A comprehensive hotel booking application built using MERN Stack (MongoDB, Express.js, React.js, and Node.js)
 
 ## Admin URL : https://hotel-booking-app-frontend-snowy.vercel.app/admin
+## User URL : https://hotel-booking-app-frontend-snowy.vercel.app/userhome
 ## Features
 * User registration and login functionality
 * Hotel listing  (price, location, rating)
