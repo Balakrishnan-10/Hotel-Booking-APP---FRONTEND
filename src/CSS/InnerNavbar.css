@@ -1,0 +1,14 @@
+.hotel img {
+  width: 7.5vw;
+  height: 7.5vw;
+  cursor: pointer;
+  border-radius: 50%;
+  transition: 0.2 s;
+}
+.hotel::-webkit-scrollbar {
+display : none;
+}
+
+.hotel img:hover { 
+    transform: scale(0.5); 
+}
