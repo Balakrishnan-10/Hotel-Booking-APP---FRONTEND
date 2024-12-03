@@ -4,7 +4,7 @@ A comprehensive hotel booking application built using MERN Stack (MongoDB, Expre
 ## Vercel URL : https://hotel-booking-app-frontend-snowy.vercel.app/
 
 ## Only for Testing Purpose:
-* This is I already signIn Admin url.Please signout and signin for new user.
+* I provide already signIn My Admin url. You can see User functionalities please signout and signin New User.
 
 ## Features
 * User registration and login functionality
